@@ -136,10 +136,7 @@
 </footer>
 
     
-<br>
-<br>
-<br>
-<br>
+
 
     <div>
 <h2> programming vs designe <h2>
